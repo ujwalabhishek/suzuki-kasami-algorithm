@@ -21,14 +21,20 @@ _The files are compiled MinGW 64 bit on Windows11 using Visual Studio Code._
 
 ##### How to run the code 
 
-You have two option to execute the code 
 
 1. REPL: you can execute the code directly on the following REPL link
    https://replit.com/@biipbyte/suzuki-kasami-algorithm-Ujwal-Abhishek?v=1
 
-OR
+   1. Enter the above link in your browser & you will be presented with following screen
+      ![Alt text](repl-steps/1.png "Step-1")
+   3. Click on the play icon in the screen above to execute the code
+      ![Alt text](repl-steps/2.png "step2")
+   5. You will be prompted to enter the value for number of process. Enter the value and press enter
+      ![Alt text](repl-steps/3.png "step3")
 
-2. Open terminal and run main.exe file. It will prompt you to enter the number of processes
+Or you can also run the code locally 
+
+2. Local: Open terminal and run main.exe file. It will prompt you to enter the number of processes
 
     ```sh
     cd assignment_one
